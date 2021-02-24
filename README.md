@@ -2,10 +2,10 @@
 
 ## I'm a Developer, Student and Writer!
 
-- 🔭 I’m currently working on Gatsby [website].
+- 🔭 I’m currently working on Golang [website Backend].
 - 🌱 I’m learning Backend Web Technologies
 - 👯 I’m looking to connect and collaborate with other developers
-- 🥅 2021 Goals: To roam different cities, writing books, creating beautiful UIs and playing ukulele
+- 🥅 2021 Goals: To roam different cities, writing books And creating beautiful UIs 
 - ⚡ Fun fact: ... I love solving calculas
 
 
