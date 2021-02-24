@@ -56,16 +56,16 @@
 
 <br />
 
-[website]: https://gauravskaintura.netlify.app/
-[twitter]: https://twitter.com/gauravskaintura
-[youtube]: https://www.youtube.com/channel/UCSpdSgYcvw5yosiA2rihizw?
-[instagram]: https://instagram.com/gauravskaintura
-[linkedin]: https://linkedin.com/in/gauravskaintura
+[website]: http://www.harimohan.ml/
+[twitter]: https://twitter.com/harimohan251097
+[youtube]: https://www.youtube.com/channel/UCVQMHjY09-bwh7c1VmstRpw
+[instagram]: https://www.instagram.com/harimohan2510/
+[linkedin]: https://www.linkedin.com/in/harimohanmeena/
 [html]: https://html.spec.whatwg.org/
 [jsplaylist]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [reactplaylist]: https://reactjs.org/docs/getting-started.html
 [cssplaylist]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[github]: https://github.com/spiritual-coder
+[github]: https://github.com/harimohan251097
 [python]: https://www.python.org/doc/
 [redux]: https://redux.js.org/
 [aws]: https://aws.amazon.com/
