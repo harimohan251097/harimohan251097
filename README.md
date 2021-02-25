@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-## I'm a Developer, Student and Writer!
+## I'm a Software Developer!
 
 - 🔭 I’m currently working on Golang [website Backend].
 - 🌱 I’m learning Backend Web Technologies
 - 👯 I’m looking to connect and collaborate with other developers
-- 🥅 2021 Goals: To roam different cities, writing books And creating beautiful UIs 
-- ⚡ Fun fact: ... I love solving calculas
+- 🥅 2021 Goals: To roam different cities.
+- ⚡ Fun fact: ... I love Playing Cricket and Listen Music....
 
 
 
