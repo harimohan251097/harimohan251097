@@ -1,5 +1,6 @@
-### Hi there 👋
 <img alt="Night Coding" width="300px" src="coding-freak.gif" align="right"/>
+### Hi there 👋
+
 ## I'm a Software Developer!
 
 - 🔭 I’m currently working on Golang [website Backend].
