@@ -55,7 +55,8 @@
 <br />
 <br />
 <br />
-<a href="https://github.com/harimohan251097/github-readme-stats" align="right">
+<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harimohan251097&layout=compact&theme=radical" />
+
 <a href="#">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=harimohan251097&show_icons=true&include_all_commits=true&theme=algolia" alt="Hari Mohan's GitHub Stats"/>
 </a>
