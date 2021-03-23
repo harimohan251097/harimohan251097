@@ -1,4 +1,4 @@
-<img alt="Night Coding" width="300px" src="coding-freak.gif" align="right"/>
+<img alt="Night Coding" width="400px" src="coding-freak.gif" align="right"/>
 ### Hi there 👋
 
 ## I'm a Software Developer!
