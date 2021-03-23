@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img alt="Night Coding"  Higth="150px" src="coding-freak.gif" align="right"/>
+<img alt="Night Coding"  Higth="15px" src="coding-freak.gif" align="right"/>
 ## I'm a Software Developer!
 
 - 🔭 I’m currently working on Golang [website Backend].
@@ -18,7 +18,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hari251097&" alt="hari251097"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harimohan251097&" alt="hari251097"/></p>
 
 
 
