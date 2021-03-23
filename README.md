@@ -1,7 +1,5 @@
 ### Hi there 👋
-<a href="https://dev.to/whyadiwhy">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aditya Gupta's DEV Profile" height="30" width="30">
-</a>
+
 ## I'm a Software Developer!
 
 - 🔭 I’m currently working on Golang [website Backend].
@@ -14,6 +12,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="padhelikhelog.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="spiritual-coder.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
