@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<a href="https://dev.to/whyadiwhy">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aditya Gupta's DEV Profile" height="30" width="30">
+</a>
 ## I'm a Software Developer!
 
 - 🔭 I’m currently working on Golang [website Backend].
