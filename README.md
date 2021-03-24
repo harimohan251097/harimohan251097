@@ -50,21 +50,13 @@
 [<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][redux]
 
 [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][aws]
-
 <br />
-<a href="#">
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harimohan251097&layout=compact&theme=radical" />
-</a>
 <br />
-
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harimohan251097&" alt="hari251097"/>
-
-
 <br /> 
-
 <br />
-
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=harimohan251097&show_icons=true&include_all_commits=true&theme=algolia" alt="Hari Mohan's GitHub Stats"/>
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=harimohan251097&show_icons=true&include_all_commits=true&theme=algolia" alt="Hari Mohan's GitHub Stats"/>
 
 
 <br />
