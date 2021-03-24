@@ -1,5 +1,7 @@
 <img alt="Night Coding" width="400px" src="coding-freak.gif" align="right"/>
-### Hi there 👋
+
+## Hi there 👋
+
 
 ## I'm a Software Developer!
 
