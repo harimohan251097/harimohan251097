@@ -50,20 +50,20 @@
 [<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][redux]
 
 [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][aws]
-
+<br>
+<br>
+<br>
+<br />
+<a href="#">
+<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harimohan251097&layout=compact&theme=radical" />
+</a>
 <br>
 <br />
 <br />
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harimohan251097&" alt="hari251097"/>
 
-<br>
-<br>
-<br>
-<br />
-<a href="#">
-<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harimohan251097&layout=compact&theme=radical" />
-</a>
+
 <br/> 
 <a align="left" href="#">
 <br/>
