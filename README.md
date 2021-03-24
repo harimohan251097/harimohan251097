@@ -53,7 +53,7 @@
 
 <br />
 <a href="#">
-<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harimohan251097&layout=compact&theme=radical" />
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harimohan251097&layout=compact&theme=radical" />
 </a>
 <br />
 
