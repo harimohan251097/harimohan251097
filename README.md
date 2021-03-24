@@ -59,18 +59,10 @@
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harimohan251097&layout=compact&theme=radical" />
 <br />
 
----
-
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harimohan251097&" alt="hari251097"/>
 <br /> 
-
----
-
 <br />
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=harimohan251097&show_icons=true&include_all_commits=true&theme=algolia" alt="Hari Mohan's GitHub Stats"/>
-
-
----
 
 <br />
 
