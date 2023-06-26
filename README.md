@@ -5,10 +5,10 @@
 
 ## I'm a Software Developer!
 
-- 🔭 I’m currently working on Golang [website Backend].
-- 🌱 I’m learning Backend Web Technologies
+- 🔭 I’m currently working on Developer .
+- 🌱 I’m learning AWS Technologies
 - 👯 I’m looking to connect and collaborate with other developers
-- 🥅 2021 Goals: To roam different cities.
+- 🥅 Goals: To roam different cities.
 - ⚡ Fun fact: ... I love Playing Cricket and Listen Music....
 
 
