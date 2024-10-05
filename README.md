@@ -5,7 +5,7 @@
 
 ## I'm a Software Developer!
 
-- 🔭 I’m currently working as Developer .
+- 🔭 I’m currently working as Software engineer At Google(3rd Party Employee) .
 - 🌱 I’m learning AWS Technologies
 - 👯 I’m looking to connect and collaborate with other developers
 - 🥅 Goals: To roam different cities.
