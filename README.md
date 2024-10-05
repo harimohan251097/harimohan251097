@@ -1,9 +1,9 @@
-<img alt="Night Coding" width="400px" src="coding-freak.gif" align="right"/>
 
 ### Hi there 👋
 
 
 ## I'm a Software Developer!
+<img alt="Night Coding" width="400px" src="coding-freak.gif" align="right"/>
 
 - 🔭 I’m currently working as Software engineer At Google(3rd Party Employee) .
 - 🌱 I’m learning AWS Technologies
