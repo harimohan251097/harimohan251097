@@ -17,10 +17,7 @@
 
 
 [<img align="left" alt="spiritual-coder.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
@@ -58,18 +55,20 @@
 --- 
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harimohan251097&layout=compact&theme=radical" />
 <br />
-
+<br/>
+<br/>
+<br/><br/><br/><br/>
+<br/>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harimohan251097&" alt="hari251097"/>
 <br /> 
-<br />
+<br /><br/><br/>
+<br/>
+<br/>
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=harimohan251097&show_icons=true&include_all_commits=true&theme=algolia" alt="Hari Mohan's GitHub Stats"/>
-
+<br/><br/>
 <br />
 
 [website]: http://www.harimohan.ml/
-[twitter]: https://twitter.com/harimohan251097
-[youtube]: https://www.youtube.com/channel/UCVQMHjY09-bwh7c1VmstRpw
-[instagram]: https://www.instagram.com/harimohan2510/
 [linkedin]: https://www.linkedin.com/in/harimohanmeena/
 [html]: https://html.spec.whatwg.org/
 [jsplaylist]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
